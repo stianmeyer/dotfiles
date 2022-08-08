@@ -1,1 +1,4 @@
-# dotfiles
+# Dotfiles
+Includes:
+- nvim
+- bash
