@@ -1,6 +1,6 @@
 # prompt
 
-PS1="\e[1;35m\u@\H:\w \e[0m"
+PS1="[\e[1;35m\u@\H: \W \e[0m] $ "
 
 # don't put duplicate lines or lines starting with space in the history.
 HISTCONTROL=ignoreboth
